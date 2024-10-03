@@ -1,9 +1,3 @@
-#### Name: SUJAL JAIN (https://github.com/Sujal942)
-
-- Place: Jabalpur, Madhya Pradesh, India
-- Bio:  FrontEnd Developer and pursuing B. Tech in Computer Science and Design.
-- GitHub: [Sujal942](https://github.com/Sujal942)
-
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
